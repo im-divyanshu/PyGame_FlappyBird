@@ -18,7 +18,7 @@ This project is a Python implementation of the classic Flappy Bird game using th
 
 Make sure you have Python and PyGame installed on your system.
 
-pip install pygame
+`pip install pygame`
 ## Installation
 Clone the repository.
 
