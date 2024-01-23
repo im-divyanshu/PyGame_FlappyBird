@@ -22,10 +22,10 @@ Make sure you have Python and PyGame installed on your system.
 ## Installation
 Clone the repository.
 
-git clone https://github.com/im-divyanshu/PyGame_FlappyBird.git
+`git clone https://github.com/im-divyanshu/PyGame_FlappyBird.git`
 Navigate to the project directory.
 
-cd PyGame_FlappyBird
+`cd PyGame_FlappyBird`
 
 ## Usage
 Run the following command to start the game.
