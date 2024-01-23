@@ -23,7 +23,7 @@ Make sure you have Python and PyGame installed on your system.
 Clone the repository.
 
 `git clone https://github.com/im-divyanshu/PyGame_FlappyBird.git`
-</br>
+</br></br>
 Navigate to the project directory.
 
 `cd PyGame_FlappyBird`
